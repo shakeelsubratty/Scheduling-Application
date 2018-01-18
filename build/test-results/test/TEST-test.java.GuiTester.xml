@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.GuiTester" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-12-13T16:15:32" hostname="Sebs-MacBook-Pro.local" time="65.239">
+  <properties/>
+  <testcase name="getAnAssignment" classname="test.java.GuiTester" time="26.994"/>
+  <testcase name="addTasksTest" classname="test.java.GuiTester" time="9.197"/>
+  <testcase name="addPeopleTest" classname="test.java.GuiTester" time="29.048"/>
+  <system-out><![CDATA[[Java]
+Button to contoller
+[Java]
+[cpp]
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

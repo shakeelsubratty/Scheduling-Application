@@ -1,0 +1,14 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName='main.java.classes.scheduler.view.MainWindow'
+
+
+dependencies {
+  testCompile 'junit:junit:4.12'
+  testCompile 'com.athaydes.automaton:Automaton:1.3.2'
+  testCompile 'org.hamcrest:hamcrest-all:1.3'
+}
+repositories {
+  mavenCentral()
+}
