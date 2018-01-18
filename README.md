@@ -3,8 +3,11 @@ Shared repository for the SEG Agile Project, for Team Unicorn.
 
 Team Unicorn members:
 
-Stefan Colakovic
-Sebastian Flower
-Mateusz Przewlocki
-Shakeel Subratty
-Stevan Warren
+<ul>
+  <li> Stefan Colakovic </li>
+  <li> Sebastian Flower </li>
+  <li> Mateusz Przewlocki </li>
+  <li> Shakeel Subratty </li>
+  <li> Stevan Warren</li>
+
+</ul>
