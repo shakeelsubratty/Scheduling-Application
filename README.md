@@ -1,4 +1,4 @@
-# seg-team-unicorn
+# Scheduling Application
 Shared repository for the SEG Agile Project, for Team Unicorn.
 
 Team Unicorn members:
